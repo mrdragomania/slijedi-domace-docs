@@ -22,6 +22,7 @@
             - \*[**input**] Potvrdi šifru
             - &nbsp; [**btn**] Registruj se
             &nbsp;
+            
         - STEP 2
             - &nbsp; [**photo select**] Avatar
             - \*[**input**] Ulica
