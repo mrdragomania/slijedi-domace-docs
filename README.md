@@ -31,6 +31,7 @@
             - \*[**input**] Poštanski broj
             - &nbsp; [**btn**] Kreiraj profil
             &nbsp;
+            
     - AS SELLER
        - STEP 1
             - \*[**input**] Ime
@@ -40,6 +41,7 @@
             - \*[**input**] Potvrdi šifru
             - &nbsp; [**btn**] Kreiraj profil
             &nbsp;
+            
         - STEP 2
             - \*[**input**] Ulica 
             - \*[**input**] Dodatna adresa
@@ -47,6 +49,7 @@
             - \*[**input**] Poštanski broj
             - &nbsp; [**btn**] Započni trgovinu
             &nbsp;
+            
         - STEP 3
             - \*[**input**] Naziv trgovine
             - \*[**input**] Dodatne informacije o trgovini
@@ -54,6 +57,7 @@
             - &nbsp; [**input-additional**] Kontakt broj #2
             - &nbsp; [**radial-checkbox**] Radni dani
             - &nbsp; [**input**] Radno vrijeme
+            - 
                 - &nbsp; [**label**] OD
                     - &nbsp; [**dropdown**] HH
                     - &nbsp; [**dropdown**] MM
@@ -61,10 +65,12 @@
                     - &nbsp; [**dropdown**] HH
                     - &nbsp; [**dropdown**] MM
                     &nbsp;
+                    
             - \*[**label**] Pronađite trgovinu na mapi za bolju vidljivost
                 - \*[**input**] Adresa na mapi
                 - \*[**map-google**] Lokacija na mapi (dodirnite mapu da odaberete lokaciju)
                 &nbsp;
+                
             - \*[**label**] Stajling i izgled e-trgovine
                 - &nbsp; [**label**] Izgled trgovine
                     - &nbsp; [**radio-box-/w-icon-&-text**] Tenda
@@ -72,8 +78,10 @@
                     - &nbsp; [**radio-box-/w-icon-&-text**] Elegantno
                     - &nbsp; [**radio-box-/w-icon-&-text**] Prirodno
                     - &nbsp; [**radio-box-/w-icon-&-text**] Ruralno
+                    - 
                 - &nbsp; [**photo-select-/w-preview**] Logo trgovine
                 - &nbsp; [**photo-select-/w-preview**] Naslovna slika trgovine
                 &nbsp;
+                
             - &nbsp; [**btn**] Otvori trgovinu!
             &nbsp;
