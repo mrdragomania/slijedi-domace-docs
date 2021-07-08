@@ -1,5 +1,5 @@
 ## Postavke profila:
-```#### Route: /postavke```
+```Route: /postavke```
 
 - postavke profila
 	- ime i prezime
