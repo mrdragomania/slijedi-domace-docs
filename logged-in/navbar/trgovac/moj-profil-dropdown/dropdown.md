@@ -1,4 +1,5 @@
-## Dropdown koji se nalazi u prvom navbaru. Taj dropdown ima sljedece informacije kada je trgovac prijavljen (seller logged in):
+## Dropdown koji se nalazi u prvom navbaru.
+#### Taj dropdown ima sljedece informacije kada je trgovac prijavljen (seller logged in):
 
 - Moj kutak (/home)
 - Moja trgovina (/trgovine/{slug_name})
