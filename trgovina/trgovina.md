@@ -11,6 +11,8 @@
 - Kontakt (**dugme** koje kada se klikne prikaze telefonski broj)
 - Chat (**dugme** koje kada se klikne otvori se chat sa trgovinom)
 - Lokacija (**dugme** koje kada se klikne pokaze adresu i google map sa markerom trgovine)
+- Searchbar
+	- za pretragu proizvoda
 - Proizvodi (zadano sortiranje je **alfabetsko**)
 - Kategorija i broj proizvoda u svakoj (zadano sortiranje je **alfabetsko**)
     - ne prikazuj kategorije bez proizvoda
