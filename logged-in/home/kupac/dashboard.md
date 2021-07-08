@@ -1,8 +1,5 @@
 ## Personalni kutak:
-```Route: /home```
-
-## Upravljacka ploca trgovine:
-```Route: /vasa-trgovina/administracija```
+```Route: /licni-kutak```
 
 Sidebar:
 - moj profil
