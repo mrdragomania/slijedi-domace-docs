@@ -2,6 +2,59 @@
 #### Struktura podstranica
 ```URL: slijedidomace.ml```
 
-- [/](https://slijedidomace.ml/)
-- [/o-nama](https://slijedidomace.ml/o-nama/)
-- 
+- [/](https://slijedidomace.ml)
+- [/o-nama](https://slijedidomace.ml/o-nama)
+- [/cesto-postavljena-pitanja](https://slijedidomace.ml/cesto-postavljena-pitanja)
+- [/kontakt](https://slijedidomace.ml/kontakt)
+- [/upute](https://slijedidomace.ml/upute)
+- [/login](https://slijedidomace.ml/login)
+	- **needs to be renamed to [/prijava]**
+- [/kupacORprodavaoc](https://slijedidomace.ml/kupacORprodavaoc)
+	- **needs to be renamed to [/registracija]**
+- [/registracija/kupac](https://slijedidomace.ml/registracija/kupac)
+- [/registracija/prodavaoc](https://slijedidomace.ml/registracija/prodavaoc)
+- [/registracija/korak/2](https://slijedidomace.ml/registracija/korak/2)
+- [/registracija/korak/3](https://slijedidomace.ml/registracija/korak/3)
+- [/registracija/korak/4](https://slijedidomace.ml/registracija/korak/4)
+- [/market](https://slijedidomace.ml/market)
+- [/proizvodi/{title_slug}](https://slijedidomace.ml/proizvodi/{title_slug})
+- [/proizvođači](https://slijedidomace.ml/proizvođači)
+	- **needs to be renamed to [/trgovine]**
+- [/trgovine/{title_slug}](https://slijedidomace.ml/trgovine/{title_slug})
+	- [/trgovine/{title_slug}/razgovor](https://slijedidomace.ml/trgovine/{title_slug}/razgovor)
+- [/profili/{id}](https://slijedidomace.ml/profili/{id})
+- [/home](https://slijedidomace.ml/home)
+	- **needs to be renamed to [/licni-kutak]**
+- [/postavke](https://slijedidomace.ml/postavke)
+	- **needs more info**
+- [/vasa-trgovina/administracija](https://slijedidomace.ml/vasa-trgovina/administracija)
+	- [/vasa-trgovina/administracija/uredi-trgovinu](https://slijedidomace.ml/vasa-trgovina/administracija/uredi-trgovinu)
+	- [/vasa-trgovina/administracija/obrisi-trgovinu](https://slijedidomace.ml/vasa-trgovina/administracija/obrisi-trgovinu)
+- [/vasa-trgovina/administracija/proizvodi](https://slijedidomace.ml/vasa-trgovina/administracija/proizvodi)
+- [/vasa-trgovina/administracija/proizvodi/dodaj](https://slijedidomace.ml/vasa-trgovina/administracija/proizvodi/dodaj)
+- [/vasa-trgovina/administracija/proizvodi/uredi](https://slijedidomace.ml/vasa-trgovina/administracija/proizvodi/uredi)
+- [/vasa-trgovina/administracija/proizvodi/obrisi](https://slijedidomace.ml/vasa-trgovina/administracija/proizvodi/obrisi)
+- [/vasa-trgovina/administracija/akcije](https://slijedidomace.ml/vasa-trgovina/administracija/akcije)
+- [/vasa-trgovina/administracija/akcije/dodaj](https://slijedidomace.ml/vasa-trgovina/administracija/akcije/dodaj)
+- [/vasa-trgovina/administracija/akcije/uredi](https://slijedidomace.ml/vasa-trgovina/administracija/akcije/uredi)
+- [/vasa-trgovina/administracija/akcije/obrisi](https://slijedidomace.ml/vasa-trgovina/administracija/akcije/obrisi)
+- [/vasa-trgovina/administracija/najave](https://slijedidomace.ml/vasa-trgovina/administracija/najave)
+- [/vasa-trgovina/administracija/najave/dodaj](https://slijedidomace.ml/vasa-trgovina/administracija/najave/dodaj)
+- [/vasa-trgovina/administracija/najave/uredi](https://slijedidomace.ml/vasa-trgovina/administracija/najave/uredi)
+- [/vasa-trgovina/administracija/najave/obrisi](https://slijedidomace.ml/vasa-trgovina/administracija/najave/obrisi)
+- [/vasa-trgovina/administracija/sezonske-ponude](https://slijedidomace.ml/vasa-trgovina/administracija/sezonske-ponude)
+- [/vasa-trgovina/administracija/sezonske-ponude/dodaj](https://slijedidomace.ml/vasa-trgovina/administracija/sezonske-ponude/dodaj)
+- [/vasa-trgovina/administracija/sezonske-ponude/uredi](https://slijedidomace.ml/vasa-trgovina/administracija/sezonske-ponude/uredi)
+- [/vasa-trgovina/administracija/sezonske-ponude/obrisi](https://slijedidomace.ml/vasa-trgovina/administracija/sezonske-ponude/obrisi)
+- [/vasa-trgovina/administracija/narudzbe](https://slijedidomace.ml/vasa-trgovina/administracija/narudzbe)
+- [/vasa-trgovina/administracija/narudzbe/na-cekanju](https://slijedidomace.ml/vasa-trgovina/administracija/narudzbe/na-cekanju)
+- [/postavke](https://slijedidomace.ml/postavke)
+- [/kosarica](https://slijedidomace.ml/kosarica)
+- [/kosarica/narudzba](https://slijedidomace.ml/kosarica/narudzba)
+	- ovo je checkout page sa detaljima adrese (prepopulated from settings if available)
+- [/kosarica/narudzba/uspjeh](https://slijedidomace.ml/kosarica/narudzba/uspjeh)
+	- full width and height page with success cheer and message
+- [/kosarica/narudzba/greska](https://slijedidomace.ml/kosarica/narudzba/greska)
+	- full width and height page with error
+- [/admin](https://slijedidomace.ml/admin)
+...
