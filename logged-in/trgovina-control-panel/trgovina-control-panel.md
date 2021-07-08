@@ -1,4 +1,4 @@
-## View trgovina control panel:
+## Control Panel Trgovine:
 #### Route: /vasa-trgovina/administracija
 
 - lista dodatih proizvoda

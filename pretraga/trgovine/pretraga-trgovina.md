@@ -1,4 +1,4 @@
-## View sellers:
+## Pretraga trgovina:
 #### Route: /trgovine?
 
 - Searchbar

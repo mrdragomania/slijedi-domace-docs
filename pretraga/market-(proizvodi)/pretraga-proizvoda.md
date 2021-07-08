@@ -1,5 +1,5 @@
-## View buyer profile:
-#### Route: /profili/{id}
+## Pretraga proizvoda:
+#### Route: /market?
 
 - Searchbar
 - Filteri sa strane

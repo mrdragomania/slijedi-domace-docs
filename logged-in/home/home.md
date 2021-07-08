@@ -1,4 +1,4 @@
-## View home as logged in:
+## Personalni kutak:
 #### Route: /home
 
 - koliko prodaja

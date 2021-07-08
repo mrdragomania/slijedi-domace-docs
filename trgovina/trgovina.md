@@ -1,4 +1,4 @@
-## View store page:
+## Trgovina:
 #### Route: /trgovina/{slug_name}
 
 - Tema prodavnice i njen dizajn

@@ -1,4 +1,4 @@
-## View buyer profile:
+## Profil kupca:
 #### Route: /profili/{id}
 
 - Avatar

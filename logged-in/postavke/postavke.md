@@ -1,4 +1,4 @@
-## View account settings:
+## Postavke profila:
 #### Route: /postavke
 
 - postavke profila
