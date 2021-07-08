@@ -1,5 +1,5 @@
 ## Pretraga proizvoda:
-#### Route: /market?
+```Route: /market?```
 
 - Searchbar
 - Filteri sa strane

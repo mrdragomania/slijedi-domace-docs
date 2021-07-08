@@ -1,5 +1,5 @@
 ## Control Panel Trgovine:
-#### Route: /vasa-trgovina/administracija
+```Route: /vasa-trgovina/administracija```
 
 - lista dodatih proizvoda
 	- add, edit, view, delete

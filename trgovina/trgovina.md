@@ -1,5 +1,5 @@
 ## Trgovina:
-#### Route: /trgovina/{slug_name}
+```Route: /trgovina/{slug_name}```
 
 - Tema prodavnice i njen dizajn
 - Ime prodavnice

@@ -1,5 +1,5 @@
 ## Profil kupca:
-#### Route: /profili/{id}
+```Route: /profili/{id}```
 
 - Avatar
 - Ime i prezime

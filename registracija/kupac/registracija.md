@@ -11,7 +11,7 @@
 - [**radio-box-/w-icon-&-text**] \-> custom radio in the shape of a box with an icon and text inside of it
 
 ##### Registracija kao **kupac**:
-#### Route: /registracija
+```Route: /registracija```
 
 - Korak 1
     - \*[**input**] Ime

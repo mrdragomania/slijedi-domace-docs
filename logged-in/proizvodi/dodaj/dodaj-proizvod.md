@@ -1,5 +1,5 @@
 ## Dodaj proizvod
-#### Route: /proizvodi/dodaj
+```Route: /proizvodi/dodaj```
 
 - Naziv - **input field**
 - Cijena - **large input field**

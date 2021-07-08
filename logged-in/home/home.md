@@ -1,5 +1,5 @@
 ## Personalni kutak:
-#### Route: /home
+```Route: /home```
 
 - koliko prodaja
 	- u ovom mjesecu

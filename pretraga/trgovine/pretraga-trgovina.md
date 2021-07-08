@@ -1,5 +1,5 @@
 ## Pretraga trgovina:
-#### Route: /trgovine?
+```Route: /trgovine?```
 
 - Searchbar
 - Filteri sa strane
